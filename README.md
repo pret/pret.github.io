@@ -2,6 +2,10 @@
 
 Some would say the name stands for "Pokémon Reverse Engineering Team". We consider those people "misguided".
 
+## Discord invite
+
+If we had a vanity, it would be [discord.gg/pret](https://discord.gg/d5dubZ3).
+
 ## Community pages
 
 PRET is not a community.
