@@ -19,6 +19,7 @@ PRET is not a community.
 * [**Pokémon Pinball**](https://github.com/pret/pokepinball)
 * [**Pokémon Gold and Silver**](https://github.com/pret/pokegold)
 * [**Pokémon Crystal**](https://github.com/pret/pokecrystal)
+* [**Pokémon Trading Card Game 2**](https://github.com/pret/poketcg2)
 
 ### Nintendo 64 (C and MIPS64EL assembly)
 * [**Pokémon Stadium**](https://github.com/pret/pokestadium)
