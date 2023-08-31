@@ -2,8 +2,8 @@
 
 You can find us on:
 
-* Discord: [pret](https://discord.gg/d5dubZ3).
-* IRC: [libera#pret](https://web.libera.chat/?#pret)).
+* Discord: [pret](https://discord.gg/d5dubZ3)
+* IRC: [libera#pret](https://web.libera.chat/?#pret)
 
 ## Disassembly and decompilation projects
 ### Gameboy and Gameboy Color (SM83 assembly)
