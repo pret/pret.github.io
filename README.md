@@ -1,4 +1,4 @@
-# PRET
+# pret
 
 Some would say the name stands for "Pokémon Reverse Engineering Team". We consider those people "misguided".
 
@@ -8,7 +8,7 @@ If we had a vanity, it would be [discord.gg/pret](https://discord.gg/d5dubZ3).
 
 ## Community pages
 
-PRET is not a community.
+pret is not a community.
 
 ## Disassembly and decompilation projects
 ### Gameboy and Gameboy Color (SM83 assembly)
