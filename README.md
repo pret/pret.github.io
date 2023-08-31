@@ -1,7 +1,5 @@
 # pret
 
-## Contacts
-
 You can find us on:
 
 * Discord: [pret](https://discord.gg/d5dubZ3).
