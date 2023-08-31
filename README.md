@@ -1,14 +1,11 @@
 # pret
 
-Some would say the name stands for "Pokémon Reverse Engineering Team". We consider those people "misguided".
+## Contacts
 
-## Discord invite
+You can find us on:
 
-If we had a vanity, it would be [discord.gg/pret](https://discord.gg/d5dubZ3).
-
-## Community pages
-
-pret is not a community.
+* Discord: [pret](https://discord.gg/d5dubZ3).
+* IRC: [libera#pret](https://web.libera.chat/?#pret)).
 
 ## Disassembly and decompilation projects
 ### Gameboy and Gameboy Color (SM83 assembly)
