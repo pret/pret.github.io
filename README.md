@@ -6,7 +6,8 @@ You can find us on:
 * IRC: [libera#pret](https://web.libera.chat/?#pret)
 
 ## Disassembly and decompilation projects
-### Gameboy and Gameboy Color (SM83 assembly)
+
+### Game Boy and Game Boy Color (SM83 assembly)
 * [**Pokémon Red and Blue**](https://github.com/pret/pokered) (Discord #pokered)
 * [**Pokémon Yellow**](https://github.com/pret/pokeyellow) (Discord #pokered)
 * [**Pokémon Gold and Silver (Space World '97 demo)**](https://github.com/pret/pokegold-spaceworld) (Discord #prototypes-and-leaks)
@@ -19,7 +20,7 @@ You can find us on:
 ### Nintendo 64 (C and MIPS64EL assembly)
 * [**Pokémon Stadium**](https://github.com/pret/pokestadium) (Discord #pokestadium)
 
-### Gameboy Advance (C and ARM7TDMI assembly)
+### Game Boy Advance (C and ARM7TDMI assembly)
 * [**Pokémon Ruby and Sapphire**](https://github.com/pret/pokeruby) (Discord #pokeruby)
 * [**Pokémon Emerald**](https://github.com/pret/pokeemerald) (Discord #pokeemerald)
 * [**Pokémon FireRed and LeafGreen**](https://github.com/pret/pokefirered) (Discord #pokefirered)
