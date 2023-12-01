@@ -12,7 +12,7 @@ You can find us on:
 * [**Pokémon Yellow**](https://github.com/pret/pokeyellow) (Discord #pokered)
 * [**Pokémon Gold and Silver (Space World '97 demo)**](https://github.com/pret/pokegold-spaceworld) (Discord #prototypes-and-leaks)
 * [**Pokémon Gold and Silver**](https://github.com/pret/pokegold) (Discord #pokecrystal)
-* [**Pokémon Crystal**](https://github.com/pret/pokecrystal) (Discord #pokecrystal)
+* [**Pokémon Crystal**](/pokecrystal) (Discord #pokecrystal)
 * [**Pokémon Trading Card Game**](https://github.com/pret/poketcg) (Discord #poketcg)
 * [**Pokémon Trading Card Game 2**](https://github.com/pret/poketcg2) (Discord #poketcg)
 * [**Pokémon Pinball**](https://github.com/pret/pokepinball) (Discord #pokepinball)
