@@ -1,5 +1,7 @@
 # pret
 
+pret is a ~~community~~ band of dedicated fans attempting to reverse engineer our favorite video games and understand how various aspects of their engines were implemented.
+
 You can find us on:
 
 * Discord: [pret](https://discord.gg/d5dubZ3)
