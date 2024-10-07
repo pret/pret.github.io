@@ -18,6 +18,7 @@ You can find us on:
 * [**Pokémon Trading Card Game**](https://github.com/pret/poketcg) (Discord #poketcg)
 * [**Pokémon Trading Card Game 2**](https://github.com/pret/poketcg2) (Discord #poketcg)
 * [**Pokémon Pinball**](https://github.com/pret/pokepinball) (Discord #pokepinball)
+* [**Pokémon Puzzle Challenge**](https://github.com/pret/pokepuzzle) (Discord #pokepuzzle)
 
 ### Nintendo 64 (C and MIPS64EL assembly)
 * [**Pokémon Stadium**](https://github.com/pret/pokestadium) (Discord #pokestadium)
@@ -28,9 +29,21 @@ You can find us on:
 * [**Pokémon FireRed and LeafGreen**](https://github.com/pret/pokefirered) (Discord #pokefirered)
 * [**Pokémon Pinball: Ruby & Sapphire**](https://github.com/pret/pokepinballrs) (Discord #pokepinballrs)
 * [**Pokémon Mystery Dungeon: Red Rescue Team**](https://github.com/pret/pmd-red) (Discord #pmd-red)
+* [**Pokémon Colosseum multiboot**](https://github.com/pret/colosseum-mb)
+* [**Pokémon Berry fix multiboot**](https://github.com/pret/berry-fix)
 
 ### Nintendo DS (C/C++ and ARM946E-S assembly)
 * [**Pokémon Diamond and Pearl**](https://github.com/pret/pokediamond) (Discord #pokediamond)
 * [**Pokémon Platinum**](https://github.com/pret/pokeplatinum) (Discord #pokeplatinum)
 * [**Pokémon HeartGold and SoulSilver**](https://github.com/pret/pokeheartgold) (Discord #pokeheartgold)
 * [**Pokémon Mystery Dungeon: Explorers of Sky**](https://github.com/pret/pmd-sky) (Discord #pmd-sky)
+
+### Nintendo Wii (C/C++ and PowerPC Broadway assembly)
+* [**Pokémon Battle Revolution**](https://github.com/pret/pokerevo) (Discord #pokerevo)
+
+## Disassembly and decompilation tools
+
+* [**Pokémon GB/GBC assembly tools**](https://github.com/pret/pokemon-asm-tools)
+* [**GBA C compiler**](https://github.com/pret/agbcc) (Discord #agbcc)
+* [**DS disassembly tools**](https://github.com/pret/ds_disassembly_tools)
+* [**Pokémon GB/GBC reverse engineering tools**](https://github.com/pret/pokemon-reverse-engineering-tools)
