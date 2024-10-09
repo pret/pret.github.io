@@ -43,7 +43,7 @@ You can find us on:
 
 ## Disassembly and decompilation tools
 
-* [**Pokémon GB/GBC assembly tools**](https://github.com/pret/pokemon-asm-tools)
+* [**GB/GBC assembly tools**](https://github.com/pret/gb-asm-tools)
 * [**GBA C compiler**](https://github.com/pret/agbcc) (Discord #agbcc)
 * [**DS disassembly tools**](https://github.com/pret/ds_disassembly_tools)
 * [**Pokémon GB/GBC reverse engineering tools**](https://github.com/pret/pokemon-reverse-engineering-tools)
