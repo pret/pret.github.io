@@ -22,6 +22,7 @@ You can find us on:
 
 ### Nintendo 64 (C and MIPS64EL assembly)
 * [**Pokémon Stadium**](https://github.com/pret/pokestadium) (Discord #pokestadium)
+* [**Pokémon Stadium 2**](https://github.com/pret/pokestadiumgs) (Discord #pokestadium)
 
 ### Game Boy Advance (C and ARM7TDMI assembly)
 * [**Pokémon Ruby and Sapphire**](https://github.com/pret/pokeruby) (Discord #pokeruby)
