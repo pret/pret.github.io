@@ -48,3 +48,6 @@ You can find us on:
 * [**GBA C compiler**](https://github.com/pret/agbcc) (Discord #agbcc)
 * [**DS disassembly tools**](https://github.com/pret/ds_disassembly_tools)
 * [**Pokémon GB/GBC reverse engineering tools**](https://github.com/pret/pokemon-reverse-engineering-tools)
+
+## Meaning of the name
+Officially, the name "pret" does not have any meaning.  When it became necessary to choose an umbrella term for the chat room and Github organization, [pokemon-reverse-engineering-tools](https://github.com/pret/pokemon-reverse-engineering-tools) served as an inspiration.
