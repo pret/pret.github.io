@@ -38,6 +38,7 @@ You can find us on:
 * [**Pokémon Platinum**](https://github.com/pret/pokeplatinum) (Discord #pokeplatinum)
 * [**Pokémon HeartGold and SoulSilver**](https://github.com/pret/pokeheartgold) (Discord #pokeheartgold)
 * [**Pokémon Mystery Dungeon: Explorers of Sky**](https://github.com/pret/pmd-sky) (Discord #pmd-sky)
+* [**Pokémon Ranger: Shadows of Almia**](https://github.com/Kuruyia/pokeranger2) (Discord #pokeranger2)
 
 ### Nintendo Wii (C/C++ and PowerPC Broadway assembly)
 * [**Pokémon Battle Revolution**](https://github.com/pret/pokerevo) (Discord #pokerevo)
